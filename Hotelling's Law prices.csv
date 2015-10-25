@@ -1,0 +1,20 @@
+"export-plot data (NetLogo 5.2.0)"
+"Hotelling's Law.nlogo"
+"09/11/2015 00:58:21:151 +0800"
+
+"MODEL SETTINGS"
+"rules","number-of-stores","layout"
+"""pricing-only""","2","""line"""
+
+"""prices"""
+"x min","x max","y min","y max","autoplot?","current pen","legend open?","number of pens"
+"0","10","0","12.1","true","""1""","false","2"
+
+"pen name","pen down?","mode","interval","color","x"
+"""1""","true","0","1","105","1"
+"""0""","true","0","1","15","1"
+
+"""1""",,,,"""0"""
+"x","y","color","pen down?","x","y","color","pen down?"
+"0","10","105","true","0","10","15","true"
+"1","11","105","true","1","11","15","true"
